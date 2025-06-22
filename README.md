@@ -3,7 +3,6 @@
 A simple Streamlit app that translates between Bangla, English, and Hindi with Text-to-Speech functionality.
 
 
-![image](https://github.com/user-attachments/assets/4ee25dbf-5ed5-44b2-b025-92d2284f070c)
 
 ## Features
 
