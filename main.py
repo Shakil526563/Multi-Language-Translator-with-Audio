@@ -39,7 +39,6 @@ def generate_audio(text, language):
 
 direction = st.selectbox("Choose translation direction:", ["Bangla to English", "English to Hindi", "Hindi to English"])
 
-# Fix the placeholder logic
 if direction == "Bangla to English":
     placeholder = "Enter Bangla text"
 elif direction == "English to Hindi":
